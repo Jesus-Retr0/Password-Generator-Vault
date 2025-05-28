@@ -55,6 +55,7 @@ go build
 - **Keep your master password strong and secret.**
 - **Do not share or upload your `storage.json` file.**
 - If you lose your master password, you cannot recover your vault.
+- **Disclaimer**: This is a personal project to explore local encryption and password management using Go. It is not intended as a production-ready security tool. Please use it for educational purposes and local testing only.
 
 ---
 
@@ -66,7 +67,7 @@ go build
 
 ## License
 
-MIT License
+Licensed under the [MIT License](LICENSE)
 
 ---
 
